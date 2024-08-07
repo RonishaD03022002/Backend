@@ -1,0 +1,1 @@
+AZURE_STORAGE_CONNECTION_STRING=DefaultEndpointsProtocol=https;AccountName=cloudwebshopimages;AccountKey=YOUR_ACCESS_KEY;EndpointSuffix=core.windows.net
